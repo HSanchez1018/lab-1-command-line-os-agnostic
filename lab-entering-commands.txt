@@ -109,19 +109,19 @@ ls -a Documents
 ==========
 11.  What key do I use to attempt to autocomplete a command or a file name?
 ----------
-
+TAB 
 
 
 ==========
 12.  What was the main command that we used throughout this exercise?
 ----------
-
+ls
 
 
 ==========
 13.  Name one argument that we passed to the command.
 ----------
-
+Documents
 
 
 ==========
@@ -131,8 +131,7 @@ $ foo<ENTER>
 
 Copy and paste the output below.
 ----------
-
-
+bash: foo: command not found
 
 ==========
 15.  Type:
@@ -141,8 +140,7 @@ Copy and paste the output below.
 
 Copy and paste the output below.
 ----------
-
-
+bash: foo: command not found
 
 ==========
 16.  In the following line....
@@ -151,3 +149,4 @@ $ ls -a Desktop
 
 What is the command, flag, argument, and prompt?
 ----------
+What we type in the prompt, used to modify commands, what the command acts upon on, a line with the $ sign.
