@@ -30,8 +30,7 @@ If it doesn't start at #1 again, or ask for help before moving on!
 
 Copy and paste the output of pwd below.
 ----------
-
-
+/Users/hugosanchezprieto/mtec1003
 
 ==========
 5. Type:
@@ -41,7 +40,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+animals
 
 
 ==========
@@ -52,7 +51,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+animals food
 
 
 ==========
@@ -64,8 +63,7 @@ $ ls
 Copy and paste the output below.
 ----------
 
-
-
+animals foo     food
 ==========
 8. Type:
 
@@ -74,8 +72,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
-
+/Users/hugosanchezprieto/mtec1003/foo/bar/baz/qux
 
 ==========
 9. Type:
@@ -85,8 +82,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
-
+/Users/hugosanchezprieto/mtec1003/foo/bar
 
 ==========
 10. Type:
@@ -96,8 +92,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
-
+/Users/hugosanchezprieto/mtec1003/foo/bar/baz/qux
  
 ==========
 11. Type:
@@ -107,8 +102,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
-
+/Users/hugosanchezprieto/mtec1003
 
 ==========
 12. Type:
@@ -119,8 +113,8 @@ $ ls -l
 
 Copy and paste the first two lines from the output into the space below.
 ----------
-
-
+total 0
+drwxr-xr-x  3 hugosanchezprieto  staff  96 Sep 29 10:09 foo
 
 ==========
 13. Type:
@@ -130,8 +124,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
-
+/Users/hugosanchezprieto
 
 ==========
 14. Type:
@@ -142,8 +135,6 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
-
 ==========
 15. Type:
 
@@ -152,8 +143,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
-
+/Volumes
 
 ==========
 15. Type:
@@ -163,13 +153,12 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
-
+/Users/hugosanchezprieto/mtec1003
 
 ==========
 16a. Make sure you're back in your mtec1002, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
 ----------
-
+pwd
 
 
 ==========
@@ -192,7 +181,7 @@ lemon
 
 Use only one command to make all of these new directories.  Write what command you used below:
 ----------
-
+mkdir
 
 
 ==========
@@ -200,7 +189,7 @@ Use only one command to make all of these new directories.  Write what command y
 
 Write the command you used to create the directory below:
 ----------
-
+mkdir
 
 
 ==========
