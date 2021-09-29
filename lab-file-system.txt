@@ -197,8 +197,7 @@ mkdir
 
 What is the modified date of the aardvark directory?
 ----------
-
-
+Sep 29 10:34
 
 ==========
 20. Make 3 directories nested within each other:
@@ -209,7 +208,7 @@ What is the modified date of the aardvark directory?
 
 What command did you use?
 ----------
-
+mkdir
 
 
 ==========
@@ -217,7 +216,7 @@ What command did you use?
 
 What command did you use?
 ----------
-
+baz does not show up for me
 
 
 ==========
@@ -225,44 +224,45 @@ What command did you use?
 
 What command did you use?
 ----------
-
+cd foo
 
 ==========
 23. What command is used to delete empty directories?
 ----------
-
+rmdir
 
 
 ==========
 24. What command is used to print out your current working directory?
 ----------
-
+pwd
 
 
 ==========
 25. What flag do I pass to ls to print out all files?
 ----------
-
+-l
 
 
 ==========
 26. What's the shortcut for home directory?
 ----------
-
+cd ~
 
 
 ==========
 27. What's a pathname?
 ----------
-
+It's a location in the file system.
 
 
 ==========
 28. What's a directory?
 ----------
-
+A construct the filesystem uses to organize files.
 
 
 ==========
 29. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
+cd /Users/hugosanchezprieto/Downloads
